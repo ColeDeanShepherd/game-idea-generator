@@ -9,8 +9,8 @@ African drumming
 Agility training
 Aikido
 Air hockey
-Aircraft spotting
 Airbrushing
+Aircraft spotting
 Airsoft
 Alpine skiing
 Amateur radio
@@ -352,11 +352,61 @@ Puppetry
 Puzzles
 Pyrography
 
+Q-Bert Speedrunning
+Qanun Making
+Qanun Playing
+Qat Chewing
+Qawwali Singing
 Qigong
+Qipao Sewing
+QRP Contesting
+QRP Kit Building
+QRP Operating
+QSL Card Collecting
+QSL Chasing
+QSO Logging
+Quad Biking
+Quad Racing
+Quad Skating
+Quadball
+Quadcopter Flying
+Quadcopter Photography
+Quadcopter Racing
+Quail Breeding
+Quail Egg Cooking
+Quail Hunting
+Quail Watching
+Quake Mapping
+Quake Modding
+Quake Speedrunning
+Quarry Climbing
+Quarry Diving
+Quarry Exploring
+Quarry Swimming
+Quarter Horse Racing
+Quarter Horse Showing
+Quarterstaff Fencing
+Quarterstaff Sparring
+Quartz Carving
+Quartz Collecting
+Quartz Polishing
+Quartz Tumbling
+Quasar Observing
+Quasar Photography
+Quechua Weaving
+Quiche Making
+Quickstep Dancing
 Quilling
 Quilting
+Quince Growing
+Quince Jam Making
+Quince Preserving
+Quinzee Building
 Quiz competitions
 Quoits
+Quoridor Playing
+Qwirkle Playing
+Qwixx Playing
 
 Race car driving
 Racquetball
@@ -470,6 +520,56 @@ Woodworking
 Wrestling
 Writing
 
+X-Men Comics Collecting
+X-Men Fan Art
+X-Wing Cosplay
+X-Wing Miniatures Gaming
+X-Wing Miniatures Painting
+Xamarin App Development
+Xare
+Xare Pelota
+Xbox Achievement Hunting
+Xbox Console Modding
+Xbox Controller Modding
+Xbox Esports Competing
+Xbox Gaming
+Xbox Speedrunning
+Xeric Plant Gardening
+Xeriscaping
+Xerography Print Art
+Xerox Art
+XHTML Coding
+Xiangqi
+Xiangqi Coaching
+Xiangqi Problem Solving
+Xiangqi Tournament Play
+Xiangsheng Performance
+Xiao Flute Crafting
+Xiao Flute Playing
+Xingyiquan
+Xingyiquan Sparring
+Xingyiquan Weapons Training
+Xinjiang Folk Dancing
+Xinyiliuhequan
+XML Coding
+XMPP Server Hosting
+Xojo Programming
+XQuery Programming
+XR Art Creation
+XR Boxing Workouts
+XR Dance Workouts
+XR Fitness Training
+XR Game Development
+XR Meditation
+XR Sculpting
+XR Worldbuilding
+XSLT Programming
+Xuan Paper Calligraphy
+Xuan Paper Mounting
+Xuan Paper Painting
+Xylocut Printmaking
+Xylograph Collecting
+Xylography
 Xylophone playing
 
 Yachting
